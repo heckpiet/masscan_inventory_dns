@@ -56,7 +56,7 @@ Masscan_Inventar_Scanner_YYYYMMDD_HHMMSS/
 └── html/
     └── (Reserviert für spätere HTML-/Screenshot-Features)
 
-
+---
 
 ## 🚀 Nutzung
 1. Targets-Datei vorbereiten
