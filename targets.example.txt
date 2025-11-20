@@ -1,0 +1,14 @@
+# Beispiel-Zieldefinitionen für den Masscan Inventar Scanner
+# Eine Zeile pro Eintrag, '#' = Kommentar
+
+# IPv4-Netz
+192.168.0.0/24
+
+# Einzelner IPv4-Host
+192.168.0.10
+
+# IPv6-Netz
+2001:db8::/64
+
+# Hostname (wird direkt an masscan durchgereicht)
+example.local
