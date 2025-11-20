@@ -1,0 +1,6 @@
+# Python-Standardbibliothek wird verwendet.
+# Externe Tools:
+#   - masscan (muss im PATH liegen)
+#   - dig (aus dnsutils / bind-utils, für die DNS-Auflösung)
+#
+# Kein zusätzliches pip-Paket zwingend erforderlich.
