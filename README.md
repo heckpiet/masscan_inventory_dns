@@ -38,7 +38,7 @@ Der Scanner liest Zielnetze aus einer Textdatei, führt parallele Scans aus, par
 
 ## 📂 Output-Struktur
 
-```text
+```
 Masscan_Inventar_Scanner_YYYYMMDD_HHMMSS/
 ├── logs/
 │   ├── masscan.log                # raw masscan stdout/stderr
@@ -55,7 +55,7 @@ Masscan_Inventar_Scanner_YYYYMMDD_HHMMSS/
 │   └── inventory_hosts_dns.json   # DNS-Ergebnisse (JSON)
 └── html/
     └── (Reserviert für spätere HTML-/Screenshot-Features)
-text```
+```
 
 ---
 
