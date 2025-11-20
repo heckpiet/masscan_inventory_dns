@@ -55,6 +55,7 @@ Masscan_Inventar_Scanner_YYYYMMDD_HHMMSS/
 │   └── inventory_hosts_dns.json   # DNS-Ergebnisse (JSON)
 └── html/
     └── (Reserviert für spätere HTML-/Screenshot-Features)
+text```
 
 ---
 
