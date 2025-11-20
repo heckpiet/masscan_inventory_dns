@@ -1,0 +1,6 @@
+# Beispiel-DNS-Serverliste für die nachgelagerte DNS-Auflösung
+# Eine IP pro Zeile, '#' = Kommentar
+
+192.168.0.10      # lokaler DNS-Server / Domain-Controller
+192.168.0.11      # zweiter lokaler DNS-Server
+8.8.8.8           # optionaler Fallback (Google DNS)
